@@ -1,2 +1,2 @@
-Flask==2.0.1
-flask_ngrok==0.0.25
+Flask==1.1.2
+gunicorn==20.1.0
